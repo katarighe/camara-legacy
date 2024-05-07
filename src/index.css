@@ -5,6 +5,21 @@
 @font-face {
   font-family: 'Poppins';
   font-style: normal;
+  font-weight: 100;
+  src: url("./assets/fonts/Poppins-Thin.ttf");
+}
+
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 100;
+  src: url("./assets/fonts/Poppins-ThinItalic.ttf");
+}
+
+
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
   font-weight: 400;
   src: url("./assets/fonts/Poppins-Regular.ttf");
 }
