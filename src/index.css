@@ -16,6 +16,19 @@
   src: url("./assets/fonts/Poppins-ThinItalic.ttf");
 }
 
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 200;
+  src: url("./assets/fonts/Poppins-ExtraLight.ttf");
+}
+
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 200;
+  src: url("./assets/fonts/Poppins-ExtraLightItalic.ttf");
+}
 
 @font-face {
   font-family: 'Poppins';
