@@ -113,3 +113,17 @@
   font-weight: 800;
   src: url("./assets/fonts/Poppins-ExtraBoldItalic.ttf");
 }
+
+@font-face {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 900;
+  src: url("./assets/fonts/Poppins-Black.ttf");
+}
+
+@font-face {
+  font-family: "Poppins";
+  font-style: italic;
+  font-weight: 900;
+  src: url("./assets/fonts/Poppins-BlackItalic.ttf");
+}
