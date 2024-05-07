@@ -130,3 +130,12 @@
 }
 
 /* Design */
+body {
+  font-family: "Poppins", sans-serif;
+  min-width: 100vw;
+  min-height: 100vh;
+  overflow-x: hidden;
+  background-color: #f9f9f9;
+  margin: 0;
+  padding: 0;
+}
